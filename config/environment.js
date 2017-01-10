@@ -3,7 +3,7 @@
 module.exports = function (environment) {
   'use strict';
   const ENV = {
-    modulePrefix: 'ga-wdi-boston.ember-template',
+    modulePrefix: 'raq929.ember-template',
     environment: environment,
     rootURL: '/',
     locationType: 'auto',
